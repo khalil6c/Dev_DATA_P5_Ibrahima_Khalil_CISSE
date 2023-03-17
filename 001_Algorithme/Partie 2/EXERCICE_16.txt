@@ -1,0 +1,52 @@
+Algorithme Exercice_16
+
+  Varaiables 
+
+  jour ,mois ,annee , N :entier
+
+Debut 
+
+
+  Ecrire("Donner la date (jj mm aaaa)")
+  Lire(jour , mois ,annee)
+
+  Ecrire("Donner le nombre de jour N")
+  Lire(n)
+  
+  jour =jour - n
+
+  Tant que (jour <= 0)
+
+   mois--
+    
+      Si (mois == 0)
+    
+        mois=12
+        annee--
+      
+      Fin Si
+     
+      Selon(mois)
+
+           case 2 :
+              
+                  jour = jour + 28
+
+           case 4,6,9,11 :
+
+                  jour = jour + 30
+
+           default :
+
+                  jour = jour + 31
+    
+      Fin Selon
+
+  Fin Tant que
+
+  Ecrire("La date il y a n jours est : ", n, jour, mois, annee)
+
+Fin
+
+
+  

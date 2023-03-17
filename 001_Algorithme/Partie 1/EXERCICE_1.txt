@@ -1,0 +1,27 @@
+Algorithme calcul
+
+  
+  Variables 
+  a ,b ,q:entier 
+   qr :reel
+
+Debut
+
+ Ecrire("Donner deux entier a et b")
+ Lire (a,b);
+
+    si(b !=0) alors
+
+        q= a div b
+        r= a mod b
+       qr=a  /  b
+
+       Ecrire ("Le quotient et le reste de la division entiere sont :",q,r)
+       Ecrire ("Le quotient reel :",qr)
+    
+    Sinon
+      Ecrire("Impossible")
+    
+    Fin Si
+Fin
+  

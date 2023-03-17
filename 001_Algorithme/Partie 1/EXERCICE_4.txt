@@ -1,0 +1,21 @@
+Algorithme Exercice_4
+
+  
+  Variables 
+  r:reel 
+
+Debut
+
+ Ecrire("Donner le rayon d'un cercle")
+
+Faire
+ Lire (r)
+Tant que(r<0)
+
+       
+       Ecrire ("La surface et le perimetre du cercle est de :" 3.14*r*r, 2 * 3.14*r)
+    
+   
+Fin
+  
+ 

@@ -1,0 +1,59 @@
+Algorithme Exercice_15
+ 
+  Variables
+
+   jour, mois, annee : entier
+
+Debut
+
+  Ecrire("Saisir la date (jj mm aaaa) : ")
+  Lire( jour, mois, annee)
+
+  jour += 5
+
+  // gestion des mois de 28/29 jours
+
+  Si (mois == 2) 
+
+    Si (jour > 29) 
+
+      jour -= 29
+      mois++
+
+    Fin Si
+
+  Sinon (mois == 4 || mois == 6 || mois == 9 || mois == 11) 
+
+    Si (jour > 30) 
+
+      jour -= 30
+      mois++
+
+    Fi Si
+
+  Sinon 
+
+    Si (jour > 31) 
+
+      jour -= 31
+      mois++
+
+    Fin Si
+
+
+  Fin Si  
+
+  // gestion des années
+
+  Si (mois > 12) 
+
+    mois -= 12
+    annee++
+  
+  Fin Si
+
+  Ecrire("La date dans 5 jours sera ", jour, mois, annee)
+
+
+FIN
+

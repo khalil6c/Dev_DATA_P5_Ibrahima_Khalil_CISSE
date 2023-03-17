@@ -1,0 +1,45 @@
+Algorithme Exercice_8
+
+  Variables
+ 
+    A , B ,C : entier
+
+Debut
+
+   Ecrire(" Entrer trois entiers A , B et C")
+   Lire (A , B)
+
+   Si ( A > B && B > C)
+
+     Ecrire (" Affichage dans l'ordre decroissant  : ", A, B ,C )
+     Ecrire (" Affichage dans l'ordre croissant  : ", C , B , A)
+
+   Sinon si ( A > C && C < B)
+
+     Ecrire (" Affichage dans l'ordre decroissant  : ", A, C , B )
+     Ecrire (" Affichage dans l'ordre croissant  : ", B ,C ,A)
+
+   Sinon si ( B > A && A > C )
+
+     Ecrire (" Affichage dans l'ordre decroissant  : ", B, A , C )
+     Ecrire (" Affichage dans l'ordre croissant  : ", C , A , B)
+   
+   Sinon si ( B > C && C >A )
+      
+     Ecrire (" Affichage dans l'ordre decroissant  : ", B, C, A )
+     Ecrire (" Affichage dans l'ordre croissant  : ", A ,C ,B)
+    
+   Sinon si ( C > B  && B > A)
+
+     Ecrire (" Affichage dans l'ordre decroissant  : ", A, C , B )
+     Ecrire (" Affichage dans l'ordre croissant  : ", B ,C ,A)
+
+   Sinon si ( C > A && A > B)
+
+
+     Ecrire (" Affichage dans l'ordre decroissant  : ", C, A , B )
+     Ecrire (" Affichage dans l'ordre croissant  : ", B ,A ,C)
+
+   Fin
+
+FIN

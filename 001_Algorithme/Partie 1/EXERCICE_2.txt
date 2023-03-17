@@ -1,0 +1,27 @@
+Algorithme Conversion
+
+  
+ Variable
+
+   mes_dm ,mes_m,mes_mm ,mes_cm,mes_hm :reel
+
+Debut
+
+   Ecrire("Donner une valeur en dm")
+
+   Faire 
+    
+   Lire(mes)
+
+   Tant que(mes<0)
+   mes_m= mes_dm*0.1
+   mes_mm= mes_dm * 100
+   mes_cm= mes_dm * 10
+   mes_hm= mes_dm*0.001
+
+
+
+   Ecrire("La valeur correspond a :", mes_m,"m", mes_mm,"mm", mes_cm,"cm", mes_hm,"hm")
+
+Fin Si
+   

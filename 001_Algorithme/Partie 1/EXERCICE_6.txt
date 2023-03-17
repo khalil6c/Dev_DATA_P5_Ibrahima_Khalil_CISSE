@@ -1,0 +1,18 @@
+Algorithme Exercice_6
+
+  
+  Variables 
+  long ,larg,surf,peri:reel 
+Debut
+
+ Ecrire("Donner la longueur et la largeur d'un rectangle")
+ Lire (long ,larg);
+
+       
+       Ecrire ("Son perimetre , sa sarface et la longueur des diametres 
+                sont respectivement ", (long + larg) *2 , long * larg ,sqrt( long *long +larg *larg) )
+    
+   
+Fin
+  
+ 

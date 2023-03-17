@@ -1,0 +1,36 @@
+Algorithme Exercice_4
+
+  variables
+  
+   a ,b ,c ,delta ,X1 ,X2 : reel 
+
+Debut
+ 
+   Ecrire ("Donner trois reel a ,b et c")
+   Lire (a , b, c)
+
+   Si( a==0 )
+      
+      Ecrire ("L'equation est du premier degre ,la solution est :", -b/c)
+
+   Sinon
+
+      Ecrire ("L'equation est du second degre ,calculons delta")
+
+         delta= b*b-4ac
+ 
+          Si (delta < 0)
+           
+            Ecrire ("L'equation n'admet pas de solution")
+  
+          Sinon Si (delta ==0)
+             
+            Ecrire ("L'equation admet une solution double x= ", -b/2*a)
+         
+          Sinon
+ 
+            Ecrire ("L'equation admet deux solutions x1=", (-b -sqrt (delta))/2*a) , "et X2=", (-b +sqrt (delta))/2*a) )
+
+          Fin Si
+
+FIN

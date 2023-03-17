@@ -1,0 +1,20 @@
+Algorithme Exercice_5
+
+  
+  Variables 
+  v:reel 
+Debut
+
+ Ecrire("Donner une valeur en Francs FCA")
+
+Faire
+ Lire (v);
+Tant que (v<0)
+
+       
+       Ecrire ("Ses valeurs en LIVRE STERLING et en DOLLAR sont respectivement :",v * 0.0013, v * 0.017)
+    
+   
+Fin
+  
+ 

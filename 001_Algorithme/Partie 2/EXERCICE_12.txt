@@ -1,0 +1,52 @@
+Algorithme Exercice_12
+
+   Variables
+
+    annee , mois : entier
+
+Debut 
+ 
+   Ecrire(" entrer une annee et un mois")
+   Lire (annee , mois)
+
+
+       selon (mois)
+          
+            cas 1,3,5,7,8,10,12 :
+
+                 si (1 <jour <= 31 && mois<=12)
+                  
+                   Ecrire("La date entree est valide")
+
+                 Fin
+
+            cas 2 :
+
+                  si ( annee mod 4 ==0)
+                 
+                    Si ( 1 < jour <=28)
+
+                      Ecrire("La date entree est valide")
+
+                    Fin Si
+                 
+                  Sinon 
+                    
+                    Si ( 1 < jour <=29)
+
+                      Ecrire("La date entree est valide")
+
+                    Fin Si
+
+            cas 4,6,9,11 :
+  
+                Si ( 1 < jour <=30)
+
+                   Ecrire("La date entree est valide")
+                 
+                 Fin Si
+
+       fin Selon
+
+     
+FIN

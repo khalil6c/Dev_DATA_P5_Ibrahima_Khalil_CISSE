@@ -1,0 +1,18 @@
+Algorithme Exercice_7
+
+  
+  Variables 
+  Req1 ,Req2,R1 ,R2,R3,R4 
+Debut
+   Ecrire("Donner trois resistances")
+   Lire (R1 ,R2 ,R3)
+
+   Ecrire ("La resistance en serie est de :", R1+R2+R3)
+
+  SI((R1*R2+R2*R3+R1*R3) !=0 )
+   Ecrire ("La resistance en parallele est de :", ( R1+R2+R3)/(R1*R2+R2*R3+R1*R3))
+  Fin SI
+   
+Fin
+  
+ 

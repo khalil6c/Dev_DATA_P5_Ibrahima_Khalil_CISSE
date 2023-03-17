@@ -1,0 +1,33 @@
+h1{
+    border: solid;
+    text-align: center;
+    background-color: rgb(240, 20, 53);
+    width: 30%;
+    margin: auto;
+    
+}
+#hs{
+    color: #120fc8;
+    border: solid;
+    border-color: gray;
+    width: 40%;
+    margin:auto ;
+    margin-top: 20px;
+    background-color: #d6c314;
+
+}
+#s{
+    background-color: #d6c314;
+    color: #120fc8;
+    width: 40%;
+    margin:auto ;
+    margin-top: 20px;
+}
+html{
+    background-image: url("imag.jpeg");
+}
+p::first-letter {
+    color: red;
+    font-size: 200%;
+    font-size: bold;
+  }

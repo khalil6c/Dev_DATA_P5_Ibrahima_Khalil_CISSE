@@ -1,0 +1,16 @@
+Algorithme Execice_11
+
+
+  Variables
+    libelle :chaine de caractere;
+    stock , prixUnitaire :reel;
+Debut
+ 
+     Ecrire("Donner le libelle  , la quantite de stock et le prix unitaire du produit")
+     Lire(libelle ,stock ,prixUnitaire)
+    
+    Ecrire("Le montant en stock du " ,libelle,"est de :",prixUnitaire*stock);
+    Ecrire("Le montant TTC du " ,libelle,"est de :",(prixUnitaire*stock) + (prixUnitaire*stock*0.18));
+
+
+Fin
