@@ -1,0 +1,41 @@
+Algorithme EXERCICE_10
+
+ Variables
+
+  a : entier 
+
+Debut
+  
+   Ecrire (" Entrer une annee")
+   Lire(a)
+   
+   Si ( a mod 4 != 0 )
+
+     Ecrire(" L'annee n'est pas  bissextile ")
+  
+   Sinon
+
+      Si( a mod 100 !=0)
+     
+          Ecrire (" L'annee n'est pas  bissextile ")
+
+      Sinon
+     
+          si( a mod 400 !=0)
+
+             Ecire(" L'annee n'est pas  bissextile ")
+
+          Sinon
+            
+             Ecire(" L'annee est bissextile ")
+
+          Fin Si
+
+      Fin Si
+
+
+   Fin Si
+
+FIN
+
+                      

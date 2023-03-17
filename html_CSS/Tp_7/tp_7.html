@@ -1,0 +1,118 @@
+    <!DOCTYPE html>
+    <html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title> Tp || 7</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="CSS.css">
+    </head>
+    <body>
+        <input id="input" type="checkbox"> 
+        <nav>
+        <div class="top">
+            <img src="p.jpg" alt="">
+            <span class = "line"></span>
+        </div>
+        <div class="bot">
+            <div class="nav-links">
+            <div class="nav-link-wrapper"><a href=""><span>Home</span></a></div>
+            <hr>
+            <div class="nav-link-wrapper"><a href=""><span>Portfolio</span></a></div>
+            <hr>
+            <div class="nav-link-wrapper"><a href=""><span>Blog</span></a></div>
+            <hr>
+            <div class="nav-link-wrapper"><a href=""><span>Contact Me</span></a></div>
+            <hr>
+            </div>
+        </div>
+        </nav>
+
+        <div class="navbar">
+            <div class="left">
+                <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+                </div>
+            </div>
+            <div class="right">
+                <h1>I .O .C</h1>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>
+                <!--a href="">Sign Up</a-->
+                <!--button id="khalil">Sign Up</button-->
+                <div class="button">
+                    <button onclick="Open()">Sign Up</button>
+                </div>
+                <div class="container" id="container">
+                    <div class="close">
+                        <img src="close.svg" onclick="Open()" alt="">
+                    </div>
+                    <h3>Sign Up</h3>
+                    <form action="" autocomplete="off">
+                        <div class="inpSection">
+                            <div class="name">
+                                
+                                <input type="text" name="" id="name" placeholder="Enter name" required>
+                            </div>
+                            <div class="email">
+                                
+                                <input type="email" name="email" id="email" placeholder="Enter E-mail" required>
+                            </div>
+                            <div class="password">
+                                
+                                <input type="password" name="password" id="password" placeholder="Password" required>
+                            </div>
+                            <div class="password">
+                                
+                                <input type="password" name="password" id="password" placeholder="Confirm password" required>
+                            </div>
+                            
+                            <div class="login">
+                                <button>Submit</button>
+                            </div>
+                            
+                        </div>
+                    </form>
+                </div>
+                    <!--button id="ff">Afficher le formulaire</button-->
+              
+                
+            </div> 
+        </div> 
+        <div class="corps">
+            <div class="about">
+                <h2>What about my web page</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.</p>       
+            </div>
+            <div class="tell">
+                <h2>Tell me More</h2>
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit.
+                        Lorem ipsum dolor sit, amet consectetur adipisicing elit. 
+                    </p>       
+            </div>
+            <div class="langages">
+                <h2>Langages</h2>
+                    <ul>
+                        <li>Java</li>
+                        <li>Ecma Script</li>
+                        <li>Langage C</li>
+                    </ul>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+                        Eius exercitationem nisi officiis sit odit magni doloremque 
+                        vero nesciunt atque dolores esse error consequuntur, porro 
+                        reprehenderit nihil labore, assumenda, repudiandae excepturi?</p>
+                    
+            </div>
+        </div>
+            
+    </body>
+    <script>
+        function Open()
+        {
+            const box=document.getElementById('container');
+            box.classList.toggle('active');
+        }
+    </script>
+    </html>
+
+  

@@ -1,0 +1,27 @@
+Algorithme Exercice_1
+
+  
+  Variables 
+  Req1 ,Req2,R1 ,R2,R3,R4 :reel
+  nbre :entier
+
+Debut
+
+   Ecrire("Donner trois resistances")
+   Lire (R1 ,R2 ,R3)
+
+   Ecrire("Choisi un nombre  1 et 2")
+   Lire(nbre)
+  
+   SI (nbre==1)
+
+     Ecrire("La resistance en serie est :",R1+R2+R3)
+
+   Sinon si(nbre==2)
+   
+     Ecrire("La resistance en parallele est :",(R1 * R2 * R3) / (R1*R2 + R2*R3 + R1*R3))
+
+
+Fin
+  
+ 

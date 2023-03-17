@@ -1,0 +1,30 @@
+Algorithme Exercice_2
+
+   Variables
+
+     a , b :entier
+     car : caractere
+
+Debut 
+
+     Ecrire ("Donner deux entiers a et b")
+     Lire ( a , b)
+
+     Ecrire (" Entrer le caractere de l'operation ")
+
+      Si ( car ='+')
+
+       Ecrire (" Le resultat est : ", a+b)
+
+      Sinon Si ( car ='*')
+
+       Ecrire (" Le resultat est : ", a*b)
+
+      Sinon Si ( car ='-')
+
+       Ecrire (" Le resultat est : ", a-b)
+
+      Fin Si
+
+      
+Fin     

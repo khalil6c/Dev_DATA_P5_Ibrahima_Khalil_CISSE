@@ -1,0 +1,49 @@
+Algorithme Exercice_5
+
+   Variables 
+
+    chiffre : entier
+
+Debut
+
+  Ecrire(" Entrer un chiffre compris entre 1 et 7")
+  Lire(chiffre)
+
+  Selon (chiffre)
+
+    cas 1 :
+  
+    Ecrire(" Ce chiffre correspond a lundi")
+
+    cas 2 :
+
+    Ecrire(" Ce chiffre correspond a Mardi")
+
+    cas 3 :
+
+    Ecrire(" Ce chiffre correspond a Mercredi")
+
+    cas 4 :
+
+    Ecrire(" Ce chiffre correspond a Jeudi")
+
+    cas 5 :
+
+    Ecrire(" Ce chiffre correspond a Vendredi")
+
+    cas 6 :
+
+    Ecrire(" Ce chiffre correspond a Samedi")
+
+    cas 7 :
+
+    Ecrire(" Ce chiffre correspond a Dimanche")
+
+    cassinon
+   
+    Ecrire(" Veuillez entrer un nombre entier compris entre 1 et 7")
+
+  Fin selon
+
+Fin
+   

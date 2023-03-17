@@ -1,0 +1,321 @@
+*{
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  body{
+    max-width: 1600px;
+    height: 700px;
+    background: white;
+  }
+  
+  nav{
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    width: 214px;
+    background: rgb(25,25,112);
+    overflow-y: scroll;
+    top: 0;
+    bottom: 0;
+    display: block;
+  }
+  
+  nav .top{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: rgb(25,25,112);
+  }
+  
+  nav .top img{
+    width: 90px;
+    border-radius: 50%;
+    border: 2px solid white;
+    margin: 10px;
+  }
+  
+  /*nav .top h1{
+    color: white;
+    text-align: center;
+    margin-bottom: 10px;
+    font-size: 28px;
+  }*/
+  
+  nav .top span.line{
+    display: block;
+    width: 205px;
+    height: 1px;
+    background: white;
+  }
+  
+  nav .bot .nav-links a{
+    display: block;
+    padding: 20px;
+    text-decoration: none;
+    color: white;
+    font-size: 15px;
+  }
+  
+  nav a span{
+    margin-left: 25px;
+    
+  }
+  
+  ::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background-color: rgb(25,25,112);
+  }
+  
+
+  ::-webkit-scrollbar-thumb {
+    background: #DCDCDC;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #999;
+  }
+  
+  #input{
+    position: absolute;
+    margin-left: 22.5px;
+    margin-top: 2px;
+    transform: scale(2.1);
+    opacity: 0;
+    cursor: pointer;
+    background-color: aqua;
+  }
+  
+  .navbar{
+    width: 100%;
+    height: 350px;
+    align-items: center;   
+    justify-content: space-between;
+    background: rgb(25,25,112);
+    margin-left: 214px;
+    
+  }
+  
+  .navbar .left .hamburger{
+    padding: 10px;
+    display: inline-block;
+    margin: auto;
+    background-color: rgb(25,25,112);
+  }
+  
+  .navbar .left .hamburger span{
+    display: block;
+    width: 25px;
+    height: 3px;
+    background: white;
+    margin: 6.5px;
+    background-color: #999;
+  }
+  
+  .navbar .right h1{
+    color: white;
+    padding: 10px;
+    font-size: 100px;
+    text-align: center;
+    /*margin-right: 100%;*/
+    margin-bottom: 20px;
+
+  }
+  .navbar .right p{
+    padding: 10px;
+    margin: 20px;
+    color: white;
+    font-size: 20px;
+
+
+  }
+  .navbar .right button{
+    padding: 15px;    
+    background-color: violet;
+    text-decoration: none;
+
+  }
+  .right{
+    display: inline-block;
+    text-align: center;
+    margin-left: 35%;
+    margin-bottom: 20px;
+    
+  }
+  
+  #input{
+    margin-left: 237px;
+  }
+  
+  #input:checked ~ nav{
+    display: none;
+  }
+  
+  #input:checked ~ .navbar{
+    margin-left: 0px;
+  }
+  
+  #input:checked{
+    margin-left: 22.5px;
+  }
+  
+  @media(max-width: 900px){
+    body{
+      overflow-y: scroll;
+    }
+  
+    nav{
+      display: none;
+      width: 200px;
+    }
+  
+    nav .top span.line{
+      width: 191px;
+    }
+  
+    /*.navbar{
+      margin-left: 0px;
+      width: 100%;
+    }*/
+  
+    #input{
+      opacity: 0;
+      margin-left: 22.5px;
+    }
+  
+    #input:checked{
+      margin-left: 222px;
+    }
+  
+    #input:checked ~ nav{
+      display: block;
+    }
+  
+    #input:checked ~ .navbar{
+      margin-left: 200px;
+    }
+  }
+  
+  .corps{
+display: table;
+margin-left: 50%;
+margin-top: 30px;
+padding: 20px;
+
+}
+h2{
+  padding: 20px;
+}
+ul{
+  padding: 10px;
+  margin-left: 60px;
+}
+/****************************/
+/*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: sans-serif;
+}*/
+
+.button button{
+  font-size: 23px;
+  font-weight: 700;
+  border: none;
+  outline: none;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px #5a6269;
+  padding: 10px 25px;
+  cursor: pointer;
+}
+.container{
+  top: 150%;
+  visibility: hidden;
+  text-align: center;
+  height: 60vh;
+  width: 25vw;
+  
+  position: absolute;
+  top: 70%;
+  left: 55%;
+  transform: translate(-50%, -50%);
+  border-radius: 8px;
+  margin-top: 6%;
+  /*box-shadow: 0 2px 5px #445667;*/
+  background-color: white;
+  opacity: 7;
+}
+h3{
+
+  /*margin: 40px 30px;*/
+  background: rgb(25,25,112);
+  opacity: 4;
+  padding: 10px;
+}
+.container img{
+  position: absolute;
+  margin: 18px 20px;
+  height: 25px;
+}
+.inpSection input{
+  font-size: 18px;
+  /*outline: none;
+  border: 1px;*/
+  border-radius: 4px;
+  /*box-shadow: 0 2px 5px #4e5048;*/
+  margin: 15px;
+  /*padding: 0 33px;*/
+  height: 35px;
+  width: 20vw;
+  
+}
+
+
+.login button{
+  margin-bottom: 4px;
+  margin-left: 2px;
+  padding: 8px 12px;
+  font-size: 20px;
+  font-weight: 650;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  background: rgb(25,25,112);
+
+}
+.forpass{
+  text-align: right;
+  margin: 0 15px;
+
+}
+.forpass a{
+  margin: 10px 15px;
+  color: aqua;
+}
+.forpass a:hover{
+  text-decoration: underline;
+}
+.signup{
+  margin: 10px;
+
+}
+.signup a{
+  color: aqua;
+
+}
+.signup a:hover{
+  text-decoration: underline;
+}
+.close img{
+  cursor: pointer;
+  margin-left: 155px;
+}
+#container.active{
+  top: 50%;
+  visibility: visible;
+  transition: 0.5s;
+}

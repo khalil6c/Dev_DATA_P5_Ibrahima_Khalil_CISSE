@@ -1,0 +1,23 @@
+Algorithme Exercice_8
+
+  
+  Variables 
+  s,h ,nbre,r ,m:entier 
+
+Debut
+
+   Ecrire("Donner le nombre de secondes")
+   
+   Lire (nbre)
+  
+    h=nbre/3600
+    r=nbre - (h * 3600)
+    m=r / 60
+    s= r - (m*60)
+   Ecrire("Ce nombre correspond a : " , h," :",m," :" ,s)
+   
+    
+   
+Fin
+  
+ 

@@ -1,0 +1,21 @@
+Algorithme Exercice_8
+
+  
+  Variables 
+  x1,y1 ,x2,y2:reel 
+
+Debut
+
+   Ecrire("Donner les coordonnees du point A")
+   Lire (x1 ,y1)
+
+   Ecrire("Donner les coordonnees du point B")
+   Lire (x2 ,y2)
+       
+     Ecrire("La distance entre les 2 points est de :", sqrt(sqrt(x1-x2) + sqrt(y1-y2)
+       
+    
+   
+Fin
+  
+ 

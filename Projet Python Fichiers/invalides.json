@@ -1,0 +1,6040 @@
+[
+    {
+        "Code": "AAD003",
+        "Numero": "2014079LH",
+        "Nom": "CISSE",
+        "Prenom": "Baba",
+        "Date_nais": "16/08/99",
+        "Classe": "6emA",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "11",
+                    "13"
+                ],
+                "Examen": "06"
+            },
+            "Francais": {
+                "Devoir": [
+                    "08",
+                    "17"
+                ],
+                "Examen": "12"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "13",
+                    "13"
+                ],
+                "Examen": "12"
+            },
+            "PC": {
+                "Devoir": [
+                    "09",
+                    "18"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "15",
+                    "10"
+                ],
+                "Examen": "10"
+            },
+            "HG": {
+                "Devoir": [
+                    "14",
+                    "19"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 2014079LH est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "2016023LD",
+        "Nom": "NDIAYE",
+        "Prenom": "mbaye",
+        "Date_nais": "12/09/00",
+        "Classe": "5emA",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "05",
+                    "13"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "11",
+                    "17"
+                ],
+                "Examen": "15"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "19",
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "11"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "09"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "15"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 2016023LD est invalide ",
+            "date_nais": "La date 12/09/00 est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "286325HG",
+        "Nom": "GAYE",
+        "Prenom": "Awa",
+        "Date_nais": "13/04/12",
+        "Classe": "3emA",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "04",
+                    "13"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "06"
+                ],
+                "Examen": "11"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "13"
+                ],
+                "Examen": "13"
+            },
+            "PC": {
+                "Devoir": [
+                    "14",
+                    "13"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "19"
+                ],
+                "Examen": "10"
+            },
+            "HG": {
+                "Devoir": [
+                    "18",
+                    "15"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 286325HG est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "201817JK",
+        "Nom": "NDAO",
+        "Prenom": "Ndiaga",
+        "Date_nais": "12/04/00",
+        "Classe": "6emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "04",
+                    "13"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "11"
+            },
+            "PC": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "09"
+                ],
+                "Examen": "11"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "15"
+                ],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201817JK est invalide ",
+            "date_nais": "La date 12/04/00 est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "65281LKJ",
+        "Nom": "DEME",
+        "Prenom": "Saliou",
+        "Date_nais": "19/03/05",
+        "Classe": "5emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "20",
+                    "19.5"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "13",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "17",
+                    "19"
+                ],
+                "Examen": "17"
+            },
+            "PC": {
+                "Devoir": [
+                    "14",
+                    "13"
+                ],
+                "Examen": "17"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "19"
+                ],
+                "Examen": "10"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "19"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 65281LKJ est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "2007095KH",
+        "Nom": "Ngadeu",
+        "Prenom": "Dinka",
+        "Date_nais": "03/12/01",
+        "Classe": "3emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "05",
+                    "18"
+                ],
+                "Examen": "12"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "12",
+                    "14"
+                ],
+                "Examen": "18"
+            },
+            "PC": {
+                "Devoir": [
+                    "24",
+                    "13"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "17",
+                    "09"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "15"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 2007095KH est invalide ",
+            "devoir": "La note de devoir ['24', '13'] est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "201607RK",
+        "Nom": "BA",
+        "Prenom": "Mouhamed",
+        "Date_nais": "19/06/96",
+        "Classe": "4emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "PC": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "09"
+                ],
+                "Examen": "15"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "15"
+                ],
+                "Examen": "13"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201607RK est invalide ",
+            "classe": "La classe 4emC est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "2014067K",
+        "Nom": "GUEYE",
+        "Prenom": "Mansour",
+        "Date_nais": "34/13/1992",
+        "Classe": "4emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "14",
+                    "12"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "18",
+                    "06"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "12"
+                ],
+                "Examen": "12"
+            },
+            "PC": {
+                "Devoir": [
+                    "18",
+                    "13"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "11",
+                    "19"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "13",
+                    "15"
+                ],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 2014067K est invalide ",
+            "date_nais": "La date 34/13/1992 est invalide ",
+            "classe": "La classe 4emC est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "20133HGF",
+        "Nom": "DANSOKHO",
+        "Prenom": "Siriman",
+        "Date_nais": "13/04/10",
+        "Classe": "6emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "15"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "06"
+                ],
+                "Examen": "15"
+            },
+            "PC": {
+                "Devoir": [
+                    "14",
+                    "06"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "18",
+                    "09"
+                ],
+                "Examen": "15"
+            },
+            "HG": {
+                "Devoir": [
+                    "11",
+                    "15"
+                ],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 20133HGF est invalide ",
+            "classe": "La classe 6emC est invalide "
+        }
+    },
+    {
+        "Code": "AAD003",
+        "Numero": "2017ZEA5L",
+        "Nom": "TOURE",
+        "Prenom": "Sokhna",
+        "Date_nais": "23/04/14",
+        "Classe": "3emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "14",
+                    "13"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "18",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "06"
+                ],
+                "Examen": "17"
+            },
+            "PC": {
+                "Devoir": [
+                    "14",
+                    "13"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "18",
+                    "12"
+                ],
+                "Examen": "16"
+            },
+            "HG": {
+                "Devoir": [
+                    "13",
+                    "15"
+                ],
+                "Examen": "13"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 2017ZEA5L est invalide ",
+            "classe": "La classe 3emC est invalide "
+        }
+    },
+    {
+        "Code": "AAD004",
+        "Numero": "JD7LO99",
+        "Nom": "SOW",
+        "Prenom": "Mariama",
+        "Date_nais": "12/18/2017",
+        "Classe": "4emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "17"
+            },
+            "PC": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "09"
+                ],
+                "Examen": "10"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "15"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 12/18/2017 est invalide "
+        }
+    },
+    {
+        "Code": "AAD005",
+        "Numero": "40DKG6T",
+        "Nom": "Diallo",
+        "Prenom": "awa",
+        "Date_nais": "21/10/04",
+        "Classe": "6emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "17",
+                    "20",
+                    "18"
+                ],
+                "Examen": "15"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "15"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD005",
+        "Numero": "20LH7BG",
+        "Nom": "FAYE",
+        "Prenom": "Fallou",
+        "Date_nais": "19/04/02",
+        "Classe": "4emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "8",
+                    "13",
+                    "11"
+                ],
+                "Examen": "12"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD005",
+        "Numero": "8D805GT",
+        "Nom": "Diop",
+        "Prenom": "Seyni",
+        "Date_nais": "29/09/05",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AAD005",
+        "Numero": "9HBW36T",
+        "Nom": "Ba",
+        "Prenom": "Aliou",
+        "Date_nais": "01/01/06",
+        "Classe": "5emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10",
+                    "11",
+                    "10"
+                ],
+                "Examen": "9"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AAD005",
+        "Numero": "W8NNJ6T",
+        "Nom": "Ndoye",
+        "Prenom": "Ousmane",
+        "Date_nais": "09/04/04",
+        "Classe": "5emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "20",
+                    "18"
+                ],
+                "Examen": "18"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "14",
+                    "14"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "H18AC4W",
+        "Nom": "BA",
+        "Prenom": "Mouhamed",
+        "Date_nais": "14/01/05",
+        "Classe": "6emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "EPJHQQ5",
+        "Nom": "DIAW",
+        "Prenom": "Fallou",
+        "Date_nais": "12/08/06",
+        "Classe": "3emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "KM729R9",
+        "Nom": "NDIAYE",
+        "Prenom": "Marie",
+        "Date_nais": "19/02/07",
+        "Classe": "3emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "Q7U2XFP",
+        "Nom": "DEME",
+        "Prenom": "Abdou",
+        "Date_nais": "16/01/04",
+        "Classe": "4emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "0747PMJ",
+        "Nom": "Ndao",
+        "Prenom": "Baye Ndiaga",
+        "Date_nais": "08/08/08",
+        "Classe": "5emB",
+        "matieres": {
+            "\"SVT": {
+                "Devoir": [
+                    "13",
+                    "9",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "10"
+                ],
+                "Examen": "13"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "18G9C4L",
+        "Nom": "DIEYE",
+        "Prenom": "Abdoulaye",
+        "Date_nais": "01/01/02",
+        "Classe": "6emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "UQI7FN8",
+        "Nom": "Cyrille ",
+        "Prenom": "Keys",
+        "Date_nais": "07/11/07",
+        "Classe": "4emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "9"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "9H37AKZ",
+        "Nom": "LOW",
+        "Prenom": "Joakim",
+        "Date_nais": "20/12/02",
+        "Classe": "4emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "6691DTO",
+        "Nom": "Ndour",
+        "Prenom": "Karin",
+        "Date_nais": "07/07/03",
+        "Classe": "5emB",
+        "matieres": {
+            "\"SVT": {
+                "Devoir": [
+                    "15",
+                    "11",
+                    "11"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "6"
+                ],
+                "Examen": "16"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD007",
+        "Numero": "8YM0304",
+        "Nom": "KIBINDA",
+        "Prenom": "Iniess",
+        "Date_nais": "15/08/05",
+        "Classe": "6emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "9",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "LSNP5Of",
+        "Nom": "Sow",
+        "Prenom": "Mari",
+        "Date_nais": "28/12/01",
+        "Classe": "6emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero LSNP5Of est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "PONAAC0",
+        "Nom": "Tine",
+        "Prenom": "Jean",
+        "Date_nais": "18/05/04",
+        "Classe": "3emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "27WERUG",
+        "Nom": "Fall",
+        "Prenom": "Ouley",
+        "Date_nais": "16/11/05",
+        "Classe": "3emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "19"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "02"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "UHT9KD8",
+        "Nom": "Seye",
+        "Prenom": "Malick",
+        "Date_nais": "07/10/07",
+        "Classe": "5emC",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 5emC est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "O6G7XCQ",
+        "Nom": "Tamba",
+        "Prenom": "Lamine",
+        "Date_nais": "09/01/06",
+        "Classe": "3emD",
+        "matieres": {
+            "\"SVT": {
+                "Devoir": [
+                    "13",
+                    "9",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "10"
+                ],
+                "Examen": "13"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 3emD est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "HDCB2G7",
+        "Nom": "Ndaw",
+        "Prenom": "Ousmane",
+        "Date_nais": "14/08/00",
+        "Classe": "4emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "19"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 14/08/00 est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "GFD3G8G",
+        "Nom": "Ndour",
+        "Prenom": "Fatime",
+        "Date_nais": "05/mars/2002",
+        "Classe": "5emD",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "9"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 5emD est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "GC4BDQ7",
+        "Nom": "Sarr",
+        "Prenom": "Oumi",
+        "Date_nais": "17/06/03",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "BK63HBS",
+        "Nom": "Gueye",
+        "Prenom": "Astou",
+        "Date_nais": "28/02/12",
+        "Classe": "3emA",
+        "matieres": {
+            "\"SVT": {
+                "Devoir": [
+                    "15",
+                    "11",
+                    "11"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "6"
+                ],
+                "Examen": "16"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AAD22",
+        "Numero": "GSQ3H84",
+        "Nom": "Diouf",
+        "Prenom": "Wally",
+        "Date_nais": "30/09/05",
+        "Classe": "4emC",
+        "matieres": {},
+        "erreur": {
+            "classe": "La classe 4emC est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "345ERTH",
+        "Nom": "Abdou",
+        "Prenom": "Wade",
+        "Date_nais": "31/12/07",
+        "Classe": "6emD",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "12",
+                    "4"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10",
+                    "17",
+                    "18"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 6emD est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "SDFTY34",
+        "Nom": "Senir",
+        "Prenom": "Mbol",
+        "Date_nais": "24/02/15",
+        "Classe": "4emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "1",
+                    "5"
+                ],
+                "Examen": "8"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10",
+                    "9",
+                    "18"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "ZRDFD4S",
+        "Nom": "Ndiareme",
+        "Prenom": "Sylla",
+        "Date_nais": "03/09/05",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "1",
+                    "4"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "0",
+                    "19",
+                    "8"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "ERSTYDD",
+        "Nom": "Akapla",
+        "Prenom": "Diop",
+        "Date_nais": "03/05/78",
+        "Classe": "5emC",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "11",
+                    "9",
+                    "1"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 5emC est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "DFGE67T",
+        "Nom": "Mbor",
+        "Prenom": "Tounkho",
+        "Date_nais": "17/10/01",
+        "Classe": "5emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "4"
+                ],
+                "Examen": "5"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "19",
+                    "18"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "23453RD",
+        "Nom": "y\u00e9r\u00e9",
+        "Prenom": "Niani",
+        "Date_nais": "05/11/12",
+        "Classe": "3emD",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "18",
+                    "4"
+                ],
+                "Examen": "8"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10",
+                    "9",
+                    "18"
+                ],
+                "Examen": "12"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 3emD est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "ERTDH6G",
+        "Nom": "Gadiaga",
+        "Prenom": "Xouli",
+        "Date_nais": "30/07/18",
+        "Classe": "5em4",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "1",
+                    "4"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10",
+                    "19",
+                    "14"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 5em4 est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "TTEDJE56",
+        "Nom": "Missari",
+        "Prenom": "Koumpa",
+        "Date_nais": "31/09/2014",
+        "Classe": "3emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "4"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "18",
+                    "9",
+                    "18"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero TTEDJE56 est invalide ",
+            "date_nais": "La date 31/09/2014 est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "56GFSE6",
+        "Nom": "Awa",
+        "Prenom": "Samak\u00e9",
+        "Date_nais": "30/09/05",
+        "Classe": "5emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "1",
+                    "4"
+                ],
+                "Examen": "7"
+            },
+            "Francais": {
+                "Devoir": [
+                    "1",
+                    "9",
+                    "18"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABD009",
+        "Numero": "RTGHSDG",
+        "Nom": "Ndol",
+        "Prenom": "Gueye",
+        "Date_nais": "30/09/06",
+        "Classe": "5emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "4"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "11",
+                    "1",
+                    "17"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "QBN34UI",
+        "Nom": "Moose",
+        "Prenom": "Rodriguez",
+        "Date_nais": "01/22/1999",
+        "Classe": "5emB",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "12",
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "16",
+                    "18"
+                ],
+                "Examen": "19"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "09"
+            },
+            "HG": {
+                "Devoir": [
+                    "12",
+                    "11"
+                ],
+                "Examen": "17"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "15",
+                    "17"
+                ],
+                "Examen": "18"
+            },
+            "Math": {
+                "Devoir": [
+                    "13",
+                    "17"
+                ],
+                "Examen": "16"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 01/22/1999 est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "LSNP1OC",
+        "Nom": "Moosky",
+        "Prenom": "Faye",
+        "Date_nais": "23/04/88",
+        "Classe": "4emC",
+        "matieres": {
+            "ran\u00e7ais": {
+                "Devoir": [
+                    "10",
+                    "07"
+                ],
+                "Examen": "15"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "01",
+                    "18"
+                ],
+                "Examen": "13"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "17"
+                ],
+                "Examen": "14"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "18",
+                    "12"
+                ],
+                "Examen": "12"
+            },
+            "Math": {
+                "Devoir": [
+                    "15",
+                    "17"
+                ],
+                "Examen": "11"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 4emC est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "83WERRE",
+        "Nom": "Wesh",
+        "Prenom": "Morey",
+        "Date_nais": "25/11/2004",
+        "Classe": "3emD",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "16",
+                    "08"
+                ],
+                "Examen": "15"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "19",
+                    "19"
+                ],
+                "Examen": "17"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "14"
+                ],
+                "Examen": "07"
+            },
+            "HG": {
+                "Devoir": [
+                    "18",
+                    "13"
+                ],
+                "Examen": "17"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "00",
+                    "03"
+                ],
+                "Examen": "02"
+            },
+            "Math": {
+                "Devoir": [
+                    "06",
+                    "17"
+                ],
+                "Examen": "13"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 3emD est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "TER0R0R",
+        "Nom": "Billie",
+        "Prenom": "Jeane",
+        "Date_nais": "17/08/98",
+        "Classe": "1em1",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "06",
+                    "08"
+                ],
+                "Examen": "05"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "20",
+                    "20"
+                ],
+                "Examen": "17"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "14"
+                ],
+                "Examen": "13"
+            },
+            "HG": {
+                "Devoir": [
+                    "11",
+                    "13"
+                ],
+                "Examen": "17"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "12",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Math": {
+                "Devoir": [
+                    "06",
+                    "17"
+                ],
+                "Examen": "18"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 1em1 est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "WHYIAMI",
+        "Nom": "Ragnard",
+        "Prenom": "Lordbrock",
+        "Date_nais": "01/12/79",
+        "Classe": "1em1",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "06",
+                    "07"
+                ],
+                "Examen": "05"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "10",
+                    "10"
+                ],
+                "Examen": "11"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "17"
+                ],
+                "Examen": "13"
+            },
+            "HG": {
+                "Devoir": [
+                    "11",
+                    "05"
+                ],
+                "Examen": "07"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "12",
+                    "18"
+                ],
+                "Examen": "15"
+            },
+            "Math": {
+                "Devoir": [
+                    "16",
+                    "17"
+                ],
+                "Examen": "18"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 1em1 est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "WOO3OOO",
+        "Nom": "Perus",
+        "Prenom": "Morgan",
+        "Date_nais": "06/06/70",
+        "Classe": "Tem1",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "08",
+                    "07"
+                ],
+                "Examen": "15"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "10",
+                    "10"
+                ],
+                "Examen": "09"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "13"
+                ],
+                "Examen": "13"
+            },
+            "HG": {
+                "Devoir": [
+                    "03",
+                    "05"
+                ],
+                "Examen": "07"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "13",
+                    "11"
+                ],
+                "Examen": "12"
+            },
+            "Math": {
+                "Devoir": [
+                    "10",
+                    "07"
+                ],
+                "Examen": "08"
+            }
+        },
+        "erreur": {
+            "classe": "La classe Tem1 est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "558YRYT",
+        "Nom": "Shawn",
+        "Prenom": "Thiam",
+        "Date_nais": "28/02/97",
+        "Classe": "Tem2",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "09",
+                    "17"
+                ],
+                "Examen": "16"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "09"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "12"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "13",
+                    "15"
+                ],
+                "Examen": "07"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "12",
+                    "12"
+                ],
+                "Examen": "14"
+            },
+            "Math": {
+                "Devoir": [
+                    "11",
+                    "07"
+                ],
+                "Examen": "18"
+            }
+        },
+        "erreur": {
+            "classe": "La classe Tem2 est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "444111T",
+        "Nom": "Mbeuthie Fall",
+        "Prenom": "Laye",
+        "Date_nais": "01/09/15",
+        "Classe": "Tem1",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "09",
+                    "17"
+                ],
+                "Examen": "16"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "12"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "11",
+                    "15"
+                ],
+                "Examen": "11"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "14"
+            },
+            "Math": {
+                "Devoir": [
+                    "10",
+                    "07"
+                ],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "classe": "La classe Tem1 est invalide "
+        }
+    },
+    {
+        "Code": "ABN018",
+        "Numero": "WORK246",
+        "Nom": "Famara",
+        "Prenom": "Bodian",
+        "Date_nais": "12/12/95",
+        "Classe": "5emF",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "19",
+                    "17"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "13",
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "13",
+                    "15"
+                ],
+                "Examen": "11"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "17",
+                    "13"
+                ],
+                "Examen": "14"
+            },
+            "Math": {
+                "Devoir": [
+                    "16",
+                    "07"
+                ],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 5emF est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "2022R3M",
+        "Nom": "DIAW",
+        "Prenom": "Fallou",
+        "Date_nais": "o5/06/1999",
+        "Classe": "3emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "17",
+                    "16"
+                ],
+                "Examen": "19"
+            },
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "14",
+                    "15"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "18",
+                    "17"
+                ],
+                "Examen": "16"
+            },
+            "PC": {
+                "Devoir": [
+                    "19",
+                    "19"
+                ],
+                "Examen": "19"
+            },
+            "SVT": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "16"
+            },
+            "HG": {
+                "Devoir": [
+                    "12"
+                ],
+                "Examen": "19"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date o5/06/1999 est invalide ",
+            "classe": "La classe 3emC est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "2022HEC",
+        "Nom": "SYLLA",
+        "Prenom": "Gallas",
+        "Date_nais": "02/03/00",
+        "Classe": "6emA",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "09",
+                    "15"
+                ],
+                "Examen": "19"
+            },
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "18",
+                    "14"
+                ],
+                "Examen": "19"
+            },
+            "PC": {
+                "Devoir": [
+                    "09",
+                    "10"
+                ],
+                "Examen": "12"
+            },
+            "SVT": {
+                "Devoir": [
+                    "03",
+                    "11"
+                ],
+                "Examen": "16"
+            },
+            "HG": {
+                "Devoir": [
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 02/03/00 est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "2016EJKL",
+        "Nom": "SECK",
+        "Prenom": "Modou",
+        "Date_nais": "03/01/99",
+        "Classe": "5emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "05",
+                    "03",
+                    "00"
+                ],
+                "Examen": "09"
+            },
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "09",
+                    "12",
+                    "13"
+                ],
+                "Examen": "10"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "12",
+                    "12"
+                ],
+                "Examen": "16"
+            },
+            "PC": {
+                "Devoir": [
+                    "04",
+                    "08"
+                ],
+                "Examen": "10"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "15"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 2016EJKL est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "2017ERT",
+        "Nom": "MANTANE",
+        "Prenom": "Elisabeth",
+        "Date_nais": "03/04/96",
+        "Classe": "4emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "2019GHS",
+        "Nom": "BOISY",
+        "Prenom": "Chris",
+        "Date_nais": "04/09/01",
+        "Classe": "5emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "13",
+                    "11"
+                ],
+                "Examen": "13"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "19"
+                ],
+                "Examen": "14"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "14"
+                ],
+                "Examen": "14"
+            },
+            "SVT": {
+                "Devoir": [
+                    "15",
+                    "19"
+                ],
+                "Examen": "15"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "18"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "11",
+                    "12"
+                ],
+                "Examen": "11"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 5emC est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "20178XYZ",
+        "Nom": "FALL",
+        "Prenom": "Khabane",
+        "Date_nais": "27/12/98",
+        "Classe": "6emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "13",
+                    "11"
+                ],
+                "Examen": "13"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "19"
+                ],
+                "Examen": "14"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "14"
+                ],
+                "Examen": "14"
+            },
+            "SVT": {
+                "Devoir": [
+                    "15",
+                    "19"
+                ],
+                "Examen": "15"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "18"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "11",
+                    "12",
+                    "11"
+                ],
+                "Examen": "20"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 20178XYZ est invalide ",
+            "classe": "La classe 6emC est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "2020DFH",
+        "Nom": "NDIAYE",
+        "Prenom": "Fatah",
+        "Date_nais": "23/08/00",
+        "Classe": "4emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            " Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 23/08/00 est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AFD006",
+        "Numero": "2019R3M",
+        "Nom": "MOHAMED",
+        "Prenom": "Ben Omar",
+        "Date_nais": "30/03/99",
+        "Classe": "3emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "12",
+                    "16",
+                    "18"
+                ],
+                "Examen": "19"
+            },
+            "Fran\u00e7cais": {
+                "Devoir": [
+                    "15"
+                ],
+                "Examen": "17"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "09"
+            },
+            "PC": {
+                "Devoir": [
+                    "15",
+                    "17",
+                    "13"
+                ],
+                "Examen": "17"
+            },
+            "SVT": {
+                "Devoir": [
+                    "16",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "HG": {
+                "Devoir": [
+                    "15"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 3emC est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201305PG8",
+        "Nom": "DIAW",
+        "Prenom": "FARA",
+        "Date_nais": "09/06/95",
+        "Classe": "6emA",
+        "matieres": {
+            "Fran\u00e7ais": {
+                "Devoir": [
+                    "12",
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "16",
+                    "18"
+                ],
+                "Examen": "19"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "09"
+            },
+            "HG": {
+                "Devoir": [
+                    "12",
+                    "11"
+                ],
+                "Examen": "17"
+            },
+            "Science_Physique": {
+                "Devoir": [
+                    "15",
+                    "17"
+                ],
+                "Examen": "18"
+            },
+            "Math": {
+                "Devoir": [
+                    "13",
+                    "17"
+                ],
+                "Examen": "16"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201305PG8 est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201307PG8",
+        "Nom": "NDIOUR",
+        "Prenom": "LEMOU",
+        "Date_nais": "12/07/96",
+        "Classe": "3emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            " Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201307PG8 est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201301PFT",
+        "Nom": "FAYE",
+        "Prenom": "BIRAM",
+        "Date_nais": "23/03/99",
+        "Classe": "3emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            " Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201301PFT est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201308PG7",
+        "Nom": "DIOUF",
+        "Prenom": "ALY",
+        "Date_nais": "22/05/98",
+        "Classe": "5emC",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            " Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201308PG7 est invalide ",
+            "classe": "La classe 5emC est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201306PH3",
+        "Nom": "DIOP",
+        "Prenom": "DABA",
+        "Date_nais": "24/09/99",
+        "Classe": "3emD",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201306PH3 est invalide ",
+            "classe": "La classe 3emD est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201302PL6",
+        "Nom": "DIENE",
+        "Prenom": "DALY",
+        "Date_nais": "12/10/97",
+        "Classe": "4emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            " Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201302PL6 est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201305PY9",
+        "Nom": "FALL",
+        "Prenom": "ABOU",
+        "Date_nais": "23/decembre/1994",
+        "Classe": "5emD",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "14",
+                    "12",
+                    "10"
+                ],
+                "Examen": "12"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "9"
+                ],
+                "Examen": "12"
+            },
+            "Francais": {
+                "Devoir": [
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "16"
+                ],
+                "Examen": "17"
+            },
+            "HG": {
+                "Devoir": [
+                    "12",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "13",
+                    "10"
+                ],
+                "Examen": "11"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201305PY9 est invalide ",
+            "classe": "La classe 5emD est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201306PT4",
+        "Nom": "FAYE",
+        "Prenom": "SIDI",
+        "Date_nais": "12/11/93",
+        "Classe": "3emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            " Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201306PT4 est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201301PB7",
+        "Nom": "SENE",
+        "Prenom": "DOMINIQUE",
+        "Date_nais": "24/01/98",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201301PB7 est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AID011",
+        "Numero": "201309OD3",
+        "Nom": "NDIAYE",
+        "Prenom": "SALIF",
+        "Date_nais": "26/06/96",
+        "Classe": "4emC",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "9",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 201309OD3 est invalide ",
+            "classe": "La classe 4emC est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AKH014",
+        "Numero": "R456T7O",
+        "Nom": "FAURE",
+        "Prenom": "JULIE",
+        "Date_nais": "12/11/00",
+        "Classe": "6emG",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "20",
+                    "19.5"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "13",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "17",
+                    "19"
+                ],
+                "Examen": "17"
+            },
+            "PC": {
+                "Devoir": [
+                    "14",
+                    "13"
+                ],
+                "Examen": "17"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "19"
+                ],
+                "Examen": "10"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "19"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 12/11/00 est invalide ",
+            "classe": "La classe 6emG est invalide "
+        }
+    },
+    {
+        "Code": "AKH014",
+        "Numero": "PO0023R",
+        "Nom": "DUPASQUIER",
+        "Prenom": "ERIC",
+        "Date_nais": "02/09/90",
+        "Classe": "3emC",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "20",
+                    "18"
+                ],
+                "Examen": "18"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "14",
+                    "14"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 3emC est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AKH014",
+        "Numero": "1992I0E",
+        "Nom": "MAHMOUD",
+        "Prenom": "ABDERRAHMAN",
+        "Date_nais": "12/12/99",
+        "Classe": "4emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AKH014",
+        "Numero": "54FR342",
+        "Nom": "Kamou",
+        "Prenom": "LAYE",
+        "Date_nais": "04/03/20",
+        "Classe": "5emC",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "17"
+            },
+            "PC": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "09"
+                ],
+                "Examen": "10"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "15"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "classe": "La classe 5emC est invalide "
+        }
+    },
+    {
+        "Code": "AKH014",
+        "Numero": "8987BHT",
+        "Nom": "MBAYE",
+        "Prenom": "IBOU",
+        "Date_nais": "03/01/00",
+        "Classe": "3emD",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "18"
+                ],
+                "Examen": "16"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "16"
+                ],
+                "Examen": "19"
+            },
+            "Francais": {
+                "Devoir": [
+                    "24",
+                    "15"
+                ],
+                "Examen": "12"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "17",
+                    "19"
+                ],
+                "Examen": "11"
+            },
+            "HG": {
+                "Devoir": [
+                    "00",
+                    "07"
+                ],
+                "Examen": "02"
+            },
+            "Math": {
+                "Devoir": [
+                    "11",
+                    "13"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 03/01/00 est invalide ",
+            "classe": "La classe 3emD est invalide ",
+            "devoir": "La note de devoir ['24', '15'] est invalide "
+        }
+    },
+    {
+        "Code": "ALT020",
+        "Numero": "KF578FG",
+        "Nom": "MARA",
+        "Prenom": "Souma",
+        "Date_nais": "\"17",
+        "Classe": "1em1",
+        "matieres": {},
+        "erreur": {
+            "date_nais": "La date \"17 est invalide ",
+            "classe": "La classe 1em1 est invalide "
+        }
+    },
+    {
+        "Code": "ALT020",
+        "Numero": "FYHE142",
+        "Nom": "DIOUF",
+        "Prenom": "MBathiou",
+        "Date_nais": "14/25/13",
+        "Classe": "6emB",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "13",
+                    "18"
+                ],
+                "Examen": "16"
+            },
+            "SVT": {
+                "Devoir": [
+                    "18",
+                    "19"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "17",
+                    "13"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "15",
+                    "12"
+                ],
+                "Examen": "14"
+            },
+            "FRANCAIS": {
+                "Devoir": [
+                    "09",
+                    "01"
+                ],
+                "Examen": "19"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "11"
+                ],
+                "Examen": "15"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 14/25/13 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "101465876kj",
+        "Nom": "Gueye",
+        "Prenom": "Moussa",
+        "Date_nais": "01/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "10",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 101465876kj est invalide ",
+            "date_nais": "La date 01/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "16382702l",
+        "Nom": "DIOUF",
+        "Prenom": "BALLA",
+        "Date_nais": "02/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 16382702l est invalide ",
+            "date_nais": "La date 02/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "12889HI",
+        "Nom": "CAMARA",
+        "Prenom": "KAMOU",
+        "Date_nais": "03/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "12",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 03/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "1732919jj",
+        "Nom": "DIOP",
+        "Prenom": "MODOU",
+        "Date_nais": "04/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "13",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 1732919jj est invalide ",
+            "date_nais": "La date 04/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "127923ghj",
+        "Nom": "FALL",
+        "Prenom": "SOBLE",
+        "Date_nais": "05/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "14",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 127923ghj est invalide ",
+            "date_nais": "La date 05/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "1908GD",
+        "Nom": "GAYE",
+        "Prenom": "PATH\u00c9",
+        "Date_nais": "06/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "15",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 1908GD est invalide ",
+            "date_nais": "La date 06/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "1382839hjklk",
+        "Nom": "HANN",
+        "Prenom": "JIM",
+        "Date_nais": "07/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "16",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 1382839hjklk est invalide ",
+            "date_nais": "La date 07/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "19937HH",
+        "Nom": "JANN",
+        "Prenom": "KABOU",
+        "Date_nais": "08/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "17",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 08/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "17282hh",
+        "Nom": "KA",
+        "Prenom": "LAMINE",
+        "Date_nais": "09/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "18",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 17282hh est invalide ",
+            "date_nais": "La date 09/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMB001",
+        "Numero": "17329pp",
+        "Nom": "LOUM",
+        "Prenom": "MOUSSA",
+        "Date_nais": "10/01/00",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "19",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 17329pp est invalide ",
+            "date_nais": "La date 10/01/00 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0000",
+        "Nom": "BA",
+        "Prenom": "MODOU",
+        "Date_nais": "12/12/05",
+        "Classe": "3emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0000 est invalide ",
+            "devoir": "La note de devoir ['', '14'] est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0001",
+        "Nom": "BODIAN",
+        "Prenom": "FATOU",
+        "Date_nais": "11/04/06",
+        "Classe": "3emB",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0001 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0002",
+        "Nom": "CAMARA",
+        "Prenom": "PAPE",
+        "Date_nais": "04/02/09",
+        "Classe": "4emB",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0002 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0003",
+        "Nom": "CISSE",
+        "Prenom": "PHILO",
+        "Date_nais": "25/03/10",
+        "Classe": "5emB",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0003 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0004",
+        "Nom": "DIOP",
+        "Prenom": "KHADIM",
+        "Date_nais": "04/02/11",
+        "Classe": "6emB",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0004 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0005",
+        "Nom": "FALL",
+        "Prenom": "KATY",
+        "Date_nais": "05/11/10",
+        "Classe": "6emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0005 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0006",
+        "Nom": "NDIAYE",
+        "Prenom": "SOKHNA",
+        "Date_nais": "06/08/07",
+        "Classe": "4emB",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0006 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0007",
+        "Nom": "MBAYE",
+        "Prenom": "CHEIKH",
+        "Date_nais": "07/06/07",
+        "Classe": "4emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0007 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0008",
+        "Nom": "POUYE",
+        "Prenom": "PALLA",
+        "Date_nais": "08/08/07",
+        "Classe": "5emB",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0008 est invalide "
+        }
+    },
+    {
+        "Code": "AMC002",
+        "Numero": "AAAA0009",
+        "Nom": "OUATARA",
+        "Prenom": "THIERNO",
+        "Date_nais": "09/09/07",
+        "Classe": "5emA",
+        "matieres": {
+            "MATH": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "20"
+            },
+            "PC": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "10",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "FRAN\u00c7AIS": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "14"
+            },
+            "ANGLAIS": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "20"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero AAAA0009 est invalide "
+        }
+    },
+    {
+        "Code": "AMD013",
+        "Numero": "Z7812Z3",
+        "Nom": "DIOUF",
+        "Prenom": "MALICK",
+        "Date_nais": "05/42/18",
+        "Classe": "4emB",
+        "matieres": {
+            "HG": {
+                "Devoir": [
+                    "11",
+                    "15"
+                ],
+                "Examen": "18"
+            },
+            "PC": {
+                "Devoir": [
+                    "15"
+                ],
+                "Examen": "18"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "11"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "Math": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "16"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "16"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 05/42/18 est invalide "
+        }
+    },
+    {
+        "Code": "AMD013",
+        "Numero": "Z7812Z5",
+        "Nom": "DIOUM",
+        "Prenom": "ALIOUNE",
+        "Date_nais": "\"12",
+        "Classe": "1em2",
+        "matieres": {},
+        "erreur": {
+            "date_nais": "La date \"12 est invalide ",
+            "classe": "La classe 1em2 est invalide "
+        }
+    },
+    {
+        "Code": "AMD013",
+        "Numero": "Z7812Z9",
+        "Nom": "NDIAYE",
+        "Prenom": "MOUSSA",
+        "Date_nais": "12/03/1999",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "9",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AMD013",
+        "Numero": "Z7852Z3",
+        "Nom": "FALL",
+        "Prenom": "MOUSTAPHA",
+        "Date_nais": "09/09/12",
+        "Classe": "6emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "9",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AMD013",
+        "Numero": "Z7812Z7",
+        "Nom": "MBAYE",
+        "Prenom": "IDRISSA",
+        "Date_nais": "15/05/2011",
+        "Classe": "4emA",
+        "matieres": {
+            "\"SVT": {
+                "Devoir": [
+                    "15",
+                    "11",
+                    "11"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "6",
+                    "14"
+                ],
+                "Examen": "16"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AMD013",
+        "Numero": "Z7312Z3",
+        "Nom": "TINE",
+        "Prenom": "SEYDOU",
+        "Date_nais": "03/09/00",
+        "Classe": "5emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 03/09/00 est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AMD013",
+        "Numero": "Z8812Z3",
+        "Nom": "TOURE",
+        "Prenom": "OUMAR",
+        "Date_nais": "29/11/01",
+        "Classe": "5emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "9"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "AMG015",
+        "Numero": "SONA010",
+        "Nom": "FALL",
+        "Prenom": "KHADY",
+        "Date_nais": "07/06/199\u00c7",
+        "Classe": "6emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "05"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "16"
+                ],
+                "Examen": "17"
+            },
+            "PC": {
+                "Devoir": [
+                    "04",
+                    "03"
+                ],
+                "Examen": "07"
+            },
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "09"
+                ],
+                "Examen": "10"
+            },
+            "HG": {
+                "Devoir": [
+                    "16",
+                    "15"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 07/06/199\u00c7 est invalide "
+        }
+    },
+    {
+        "Code": "AMK016",
+        "Numero": "K771427",
+        "Nom": "Sy",
+        "Prenom": "Malick",
+        "Date_nais": "05/42/18",
+        "Classe": "6emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "12",
+                    "14",
+                    "11"
+                ],
+                "Examen": "19"
+            },
+            "PC": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "13"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10"
+                ],
+                "Examen": "12"
+            },
+            "SVT": {
+                "Devoir": [
+                    "13"
+                ],
+                "Examen": "19"
+            },
+            "HG": {
+                "Devoir": [
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "10",
+                    "17"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 05/42/18 est invalide "
+        }
+    },
+    {
+        "Code": "AMK016",
+        "Numero": "JH23GH3",
+        "Nom": "Loum",
+        "Prenom": "Mamadou",
+        "Date_nais": "\"12",
+        "Classe": "1em2",
+        "matieres": {},
+        "erreur": {
+            "date_nais": "La date \"12 est invalide ",
+            "classe": "La classe 1em2 est invalide "
+        }
+    },
+    {
+        "Code": "AMK016",
+        "Numero": "23JHNB2",
+        "Nom": "Ngimbona",
+        "Prenom": "Charles",
+        "Date_nais": "03/09/00",
+        "Classe": "3emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "11",
+                    "10",
+                    "09"
+                ],
+                "Examen": "11"
+            },
+            "PC": {
+                "Devoir": [
+                    "11",
+                    "11",
+                    "9"
+                ],
+                "Examen": "11"
+            },
+            "Francais": {
+                "Devoir": [
+                    "18",
+                    "19",
+                    "19"
+                ],
+                "Examen": "17"
+            },
+            "SVT": {
+                "Devoir": [
+                    "01"
+                ],
+                "Examen": "11"
+            },
+            "HG": {
+                "Devoir": [
+                    "19"
+                ],
+                "Examen": "19"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "19",
+                    "17"
+                ],
+                "Examen": "19"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 03/09/00 est invalide "
+        }
+    },
+    {
+        "Code": "AOD010",
+        "Numero": "DKZGS12",
+        "Nom": "diop",
+        "Prenom": "Ousmane",
+        "Date_nais": "1/fev/2004",
+        "Classe": "5emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "14",
+                    "10"
+                ],
+                "Examen": "12"
+            },
+            "PC": {
+                "Devoir": [
+                    "9"
+                ],
+                "Examen": "12"
+            },
+            "Francais": {
+                "Devoir": [
+                    "14",
+                    "14"
+                ],
+                "Examen": "15"
+            },
+            "SVT": {
+                "Devoir": [
+                    "16",
+                    "11"
+                ],
+                "Examen": "17"
+            },
+            "HG": {
+                "Devoir": [
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "AOD010",
+        "Numero": "LFNJESM",
+        "Nom": "sambou",
+        "Prenom": "jean",
+        "Date_nais": "19/05/06",
+        "Classe": "5emB",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "PC": {
+                "Devoir": [
+                    "19"
+                ],
+                "Examen": "20"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "5",
+                    "9"
+                ],
+                "Examen": "9"
+            },
+            "Math": {
+                "Devoir": [
+                    "18",
+                    "16"
+                ],
+                "Examen": "17"
+            },
+            "HG": {
+                "Devoir": [
+                    "10"
+                ],
+                "Examen": "11"
+            },
+            "Francais": {
+                "Devoir": [],
+                "Examen": "Francais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Francais est invalide "
+        }
+    },
+    {
+        "Code": "AOD010",
+        "Numero": "JGRHFNE",
+        "Nom": "sy",
+        "Prenom": "pathe",
+        "Date_nais": "31/1/2006",
+        "Classe": "5emA",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "12"
+                ],
+                "Examen": "11"
+            },
+            "PC": {
+                "Devoir": [
+                    "12"
+                ],
+                "Examen": "11"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "15",
+                    "14"
+                ],
+                "Examen": "12"
+            },
+            "Math": {
+                "Devoir": [
+                    "13"
+                ],
+                "Examen": "13"
+            },
+            "HG": {
+                "Devoir": [
+                    "12"
+                ],
+                "Examen": "14"
+            },
+            "Francais": {
+                "Devoir": [],
+                "Examen": "Francais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Francais est invalide "
+        }
+    },
+    {
+        "Code": "AOD010",
+        "Numero": "LSXNEB0",
+        "Nom": "gueye",
+        "Prenom": "modou",
+        "Date_nais": "03/01/02",
+        "Classe": "3emB",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "13"
+                ],
+                "Examen": "15"
+            },
+            "PC": {
+                "Devoir": [
+                    "19"
+                ],
+                "Examen": "20"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "5",
+                    "9"
+                ],
+                "Examen": "9"
+            },
+            "Math": {
+                "Devoir": [
+                    "18",
+                    "16"
+                ],
+                "Examen": "17"
+            },
+            "HG": {
+                "Devoir": [
+                    "10"
+                ],
+                "Examen": "11"
+            },
+            "Francais": {
+                "Devoir": [],
+                "Examen": "Francais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Francais est invalide "
+        }
+    },
+    {
+        "Code": "BAD008",
+        "Numero": "AF32IBC",
+        "Nom": "FALL",
+        "Prenom": "OUSSEYOU",
+        "Date_nais": "03/07/00",
+        "Classe": "3emB",
+        "matieres": {
+            "Math": {
+                "Devoir": [
+                    "13",
+                    "15"
+                ],
+                "Examen": "16"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10",
+                    "14"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "12",
+                    "9",
+                    "15"
+                ],
+                "Examen": "11"
+            },
+            "PC": {
+                "Devoir": [
+                    "13"
+                ],
+                "Examen": "10"
+            },
+            "SVT": {
+                "Devoir": [
+                    "14",
+                    "9",
+                    "12"
+                ],
+                "Examen": "13"
+            },
+            "HG": {
+                "Devoir": [
+                    "13"
+                ],
+                "Examen": "15"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 03/07/00 est invalide "
+        }
+    },
+    {
+        "Code": "BAD008",
+        "Numero": "UPNCG78",
+        "Nom": "KA",
+        "Prenom": "ALIOU",
+        "Date_nais": "10/05/09",
+        "Classe": "3emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "9"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BAD008",
+        "Numero": "KFPB32H",
+        "Nom": "SY",
+        "Prenom": "ADJA",
+        "Date_nais": "02/08/02",
+        "Classe": "6emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "9",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "GH43RTU",
+        "Nom": "Ndao",
+        "Prenom": "Aram",
+        "Date_nais": "16/02/00",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 16/02/00 est invalide ",
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "PLM56DS",
+        "Nom": "Gomis",
+        "Prenom": "Pipo",
+        "Date_nais": "16/03/98",
+        "Classe": "4emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "8",
+                    "7"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "12",
+                    "9"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "GF34KHS",
+        "Nom": "Diouf",
+        "Prenom": "Ousseynou",
+        "Date_nais": "03/12/92",
+        "Classe": "5emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "18",
+                    "17"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "5",
+                    "13",
+                    "9"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "JHGF7F5",
+        "Nom": "Diop",
+        "Prenom": "Elimane",
+        "Date_nais": "12/01/03",
+        "Classe": "6emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "9",
+                    "17"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "13",
+                    "8"
+                ],
+                "Examen": "18"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "RED76BH",
+        "Nom": "Ciss\u00e9",
+        "Prenom": "Babacar",
+        "Date_nais": "03/06/05",
+        "Classe": "3emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "8",
+                    "7"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "12",
+                    "9"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "GF69LBC",
+        "Nom": "Ba",
+        "Prenom": "Abdoulaye",
+        "Date_nais": "09/02/92",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "18",
+                    "17"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "10",
+                    "1",
+                    "9"
+                ],
+                "Examen": "12"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "ML09RDS",
+        "Nom": "Diallo",
+        "Prenom": "Alioune",
+        "Date_nais": "08/07/93",
+        "Classe": "4emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "9",
+                    "7"
+                ],
+                "Examen": "11"
+            },
+            "Francais": {
+                "Devoir": [
+                    "11",
+                    "13",
+                    "19"
+                ],
+                "Examen": "4"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "NBV76RD",
+        "Nom": "Gueye",
+        "Prenom": "Abdalah",
+        "Date_nais": "01/01/92",
+        "Classe": "4emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "12",
+                    "17"
+                ],
+                "Examen": "0"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "17",
+                    "12"
+                ],
+                "Examen": "15"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "NB675DH",
+        "Nom": "Dia",
+        "Prenom": "Hawa",
+        "Date_nais": "07/07/97",
+        "Classe": "5emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "15",
+                    "12"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "13",
+                    "16",
+                    "19"
+                ],
+                "Examen": "19"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BAF013",
+        "Numero": "MLHF65D",
+        "Nom": "Guiss\u00e9",
+        "Prenom": "Penda",
+        "Date_nais": "04/04/94",
+        "Classe": "3emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "8",
+                    "7"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "15",
+                    "12",
+                    "9"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "IHFK34G",
+        "Nom": "DIOUM",
+        "Prenom": "Harry",
+        "Date_nais": "14/01/95",
+        "Classe": "5emA",
+        "matieres": {
+            "\"SVT": {
+                "Devoir": [
+                    "12",
+                    "19",
+                    "01"
+                ],
+                "Examen": "04"
+            },
+            "HG": {
+                "Devoir": [
+                    "15"
+                ],
+                "Examen": "11"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "3FR5IJ9",
+        "Nom": "DIALLO",
+        "Prenom": "Hermione",
+        "Date_nais": "12/08/06",
+        "Classe": "4emB",
+        "matieres": {
+            "\"SVT": {
+                "Devoir": [
+                    "15",
+                    "11",
+                    "11"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "6",
+                    "14"
+                ],
+                "Examen": "16"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "PM12NG7",
+        "Nom": "DIOP",
+        "Prenom": "Mari\u00e8me",
+        "Date_nais": "19/08/97",
+        "Classe": "3emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "15",
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            " Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "89HY6F5",
+        "Nom": "DIALLO",
+        "Prenom": "Ronald",
+        "Date_nais": "09/05/00",
+        "Classe": "6emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 09/05/00 est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "5D7BKJ2",
+        "Nom": "FALL",
+        "Prenom": "Magui",
+        "Date_nais": "30/08/08",
+        "Classe": "3emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "11"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "7",
+                    "12",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "PK0I89K",
+        "Nom": "CAMARA",
+        "Prenom": "Rachid",
+        "Date_nais": "15/02/01",
+        "Classe": "6emA",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            "   Math": {
+                "Devoir": [],
+                "Examen": "12"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "NO895G",
+        "Nom": "DIOUF",
+        "Prenom": "Ibou",
+        "Date_nais": "07/11/94",
+        "Classe": "5emB",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "9"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero NO895G est invalide ",
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "9F6J9TT",
+        "Nom": "POUYE",
+        "Prenom": "Ousseynou",
+        "Date_nais": "02/12/85",
+        "Classe": "4emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "6G6F9F1",
+        "Nom": "DEME",
+        "Prenom": "Mahi",
+        "Date_nais": "27/10/93",
+        "Classe": "3emB",
+        "matieres": {
+            "\"PC": {
+                "Devoir": [
+                    "11",
+                    "11"
+                ],
+                "Examen": "9"
+            },
+            "Math": {
+                "Devoir": [],
+                "Examen": "Math"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Math est invalide "
+        }
+    },
+    {
+        "Code": "BMP019",
+        "Numero": "BH54JJ6",
+        "Nom": "DUBOIS",
+        "Prenom": "Bachir",
+        "Date_nais": "15/09/94",
+        "Classe": "5emA",
+        "matieres": {
+            "\"Math": {
+                "Devoir": [
+                    "10",
+                    "15"
+                ],
+                "Examen": "15"
+            },
+            "Francais": {
+                "Devoir": [
+                    "17",
+                    "9",
+                    "8"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [],
+                "Examen": "Anglais"
+            }
+        },
+        "erreur": {
+            "devoir": "La note de devoir [] est invalide ",
+            "examen": "La note d'examen Anglais est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "NT129YK",
+        "Nom": "T8UR5",
+        "Prenom": "Kine",
+        "Date_nais": "12/32/1990",
+        "Classe": "4emA",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "18"
+                ],
+                "Examen": "16"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "16"
+                ],
+                "Examen": "19"
+            },
+            "Francais": {
+                "Devoir": [
+                    "24",
+                    "15"
+                ],
+                "Examen": "12"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "17",
+                    "19"
+                ],
+                "Examen": "11"
+            },
+            "HG": {
+                "Devoir": [
+                    "00",
+                    "7"
+                ],
+                "Examen": "2"
+            },
+            "Math": {
+                "Devoir": [
+                    "11",
+                    "13"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "date_nais": "La date 12/32/1990 est invalide ",
+            "devoir": "La note de devoir ['24', '15'] est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "12OUITY7",
+        "Nom": "Fall",
+        "Prenom": "H654F",
+        "Date_nais": "26/12/88",
+        "Classe": "5emB",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "00",
+                    "10"
+                ],
+                "Examen": "12"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "12"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "11"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "11",
+                    "12"
+                ],
+                "Examen": "12"
+            },
+            "HG": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "3"
+            },
+            "Math": {
+                "Devoir": [
+                    "00",
+                    "15"
+                ],
+                "Examen": "11"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 12OUITY7 est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "12DREY89",
+        "Nom": "Sall",
+        "Prenom": "Dibor",
+        "Date_nais": "",
+        "Classe": "6emC",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "12",
+                    "18"
+                ],
+                "Examen": "16"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "16"
+                ],
+                "Examen": "19"
+            },
+            "Francais": {
+                "Devoir": [
+                    "24",
+                    "15"
+                ],
+                "Examen": "12"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "17",
+                    "19"
+                ],
+                "Examen": "11"
+            },
+            "HG": {
+                "Devoir": [
+                    "00",
+                    "07"
+                ],
+                "Examen": "02"
+            },
+            "Math": {
+                "Devoir": [
+                    "11",
+                    "13"
+                ],
+                "Examen": "14"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 12DREY89 est invalide ",
+            "date_nais": "La date  est invalide ",
+            "classe": "La classe 6emC est invalide ",
+            "devoir": "La note de devoir ['24', '15'] est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "BT3456YH",
+        "Nom": "Dingka",
+        "Prenom": "Kaba",
+        "Date_nais": "12/05/97",
+        "Classe": "4emA",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "15"
+                ],
+                "Examen": "17"
+            },
+            "PC": {
+                "Devoir": [
+                    "11",
+                    "18"
+                ],
+                "Examen": "20"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "11"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "00",
+                    "02"
+                ],
+                "Examen": "01"
+            },
+            "HG": {
+                "Devoir": [
+                    "00",
+                    "05"
+                ],
+                "Examen": "00"
+            },
+            "Math": {
+                "Devoir": [
+                    "10",
+                    "01"
+                ],
+                "Examen": "09"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero BT3456YH est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "DR765TR4",
+        "Nom": "Ndiaye",
+        "Prenom": "Ndeye",
+        "Date_nais": "23/05/96",
+        "Classe": "5emD",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "19"
+                ],
+                "Examen": "14"
+            },
+            "PC": {
+                "Devoir": [
+                    "00",
+                    "13"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "04",
+                    "10"
+                ],
+                "Examen": "17"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "17"
+            },
+            "HG": {
+                "Devoir": [
+                    "05",
+                    "08"
+                ],
+                "Examen": "09"
+            },
+            "Math": {
+                "Devoir": [
+                    "10",
+                    "14"
+                ],
+                "Examen": "17"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero DR765TR4 est invalide ",
+            "classe": "La classe 5emD est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "GT3456YT",
+        "Nom": "Diop",
+        "Prenom": "Sokhna",
+        "Date_nais": "23/08/92",
+        "Classe": "4emA",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "11",
+                    "13"
+                ],
+                "Examen": "19"
+            },
+            "PC": {
+                "Devoir": [
+                    "11",
+                    "14"
+                ],
+                "Examen": "17"
+            },
+            "Francais": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "18",
+                    "15"
+                ],
+                "Examen": "13"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "04"
+                ],
+                "Examen": "09"
+            },
+            "Math": {
+                "Devoir": [
+                    "14",
+                    "16"
+                ],
+                "Examen": "19"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero GT3456YT est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "34FT768H",
+        "Nom": "Dioum",
+        "Prenom": "Khoudia",
+        "Date_nais": "12/09/95",
+        "Classe": "6emB",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "13",
+                    "1\u00e0"
+                ],
+                "Examen": "14"
+            },
+            "PC": {
+                "Devoir": [
+                    "10",
+                    "15"
+                ],
+                "Examen": "17"
+            },
+            "Francais": {
+                "Devoir": [
+                    "00",
+                    "02"
+                ],
+                "Examen": "13"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "14",
+                    "18"
+                ],
+                "Examen": "15"
+            },
+            "HG": {
+                "Devoir": [
+                    "20",
+                    "15"
+                ],
+                "Examen": "09"
+            },
+            "Math": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "16"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 34FT768H est invalide ",
+            "devoir": "La note de devoir ['13', '1\u00e0'] est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "45TGFD67",
+        "Nom": "King",
+        "Prenom": "Kine",
+        "Date_nais": "24/05/98",
+        "Classe": "6emC",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "11",
+                    "08"
+                ],
+                "Examen": "06"
+            },
+            "PC": {
+                "Devoir": [
+                    "10",
+                    "12"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "20",
+                    "19"
+                ],
+                "Examen": "14"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "11",
+                    "19"
+                ],
+                "Examen": "15"
+            },
+            "HG": {
+                "Devoir": [
+                    "13",
+                    "15"
+                ],
+                "Examen": "20"
+            },
+            "Math": {
+                "Devoir": [
+                    "17",
+                    "18"
+                ],
+                "Examen": "19"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero 45TGFD67 est invalide ",
+            "classe": "La classe 6emC est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "VFT34UYT",
+        "Nom": "Fakha",
+        "Prenom": "Fatou",
+        "Date_nais": "23/09/95",
+        "Classe": "3emA",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "11",
+                    "12"
+                ],
+                "Examen": "18"
+            },
+            "PC": {
+                "Devoir": [
+                    "17",
+                    "16"
+                ],
+                "Examen": "14"
+            },
+            "Francais": {
+                "Devoir": [
+                    "20",
+                    "15"
+                ],
+                "Examen": "18"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "12",
+                    "13"
+                ],
+                "Examen": "16"
+            },
+            "HG": {
+                "Devoir": [
+                    "18",
+                    "14"
+                ],
+                "Examen": "18"
+            },
+            "Math": {
+                "Devoir": [
+                    "16",
+                    "18"
+                ],
+                "Examen": "10"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero VFT34UYT est invalide "
+        }
+    },
+    {
+        "Code": "BNT021",
+        "Numero": "FTR3456G",
+        "Nom": "Drame",
+        "Prenom": "Rama",
+        "Date_nais": "12/03/92",
+        "Classe": "5emB",
+        "matieres": {
+            "SVT": {
+                "Devoir": [
+                    "16",
+                    "19"
+                ],
+                "Examen": "14"
+            },
+            "PC": {
+                "Devoir": [
+                    "13",
+                    "14"
+                ],
+                "Examen": "10"
+            },
+            "Francais": {
+                "Devoir": [
+                    "14",
+                    "18"
+                ],
+                "Examen": "19"
+            },
+            "Anglais": {
+                "Devoir": [
+                    "14",
+                    "15"
+                ],
+                "Examen": "18"
+            },
+            "HG": {
+                "Devoir": [
+                    "10",
+                    "07"
+                ],
+                "Examen": "20"
+            },
+            "Math": {
+                "Devoir": [
+                    "19",
+                    "17"
+                ],
+                "Examen": "18"
+            }
+        },
+        "erreur": {
+            "numero": "Le numero FTR3456G est invalide "
+        }
+    }
+]

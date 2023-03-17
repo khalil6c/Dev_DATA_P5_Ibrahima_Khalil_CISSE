@@ -1,0 +1,40 @@
+Algorithme EXERCICE_6
+
+   Variables 
+
+     montant : entier
+ 
+Debut 
+ 
+  Ecrire("Donner un montant en euro")
+  Lire (montant)
+
+  Si(montant >= 20)
+
+    a= montant div 20
+    montant = a mod 20 
+
+  Fin
+
+  Si( montant >=10)
+
+    b= montant div 10
+    montant = b mod 10
+
+  Fin Si 
+
+  Si ( montant >= 5)
+
+    c = montant div 5
+    montant= c mod 5
+
+  Fin
+
+  Ecrire (" La somme est composee de : ", a," billet de 20 euro", b ," billet de 10 euro" , c ," billet de 5 euro" , montant ," billet de 1 euro")
+
+
+FIN
+
+   
+
+  

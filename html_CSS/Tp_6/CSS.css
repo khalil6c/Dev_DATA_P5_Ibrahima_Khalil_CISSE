@@ -1,0 +1,19 @@
+body{
+    background-image: url("bac.jpeg");
+}
+h1{
+    color: white;
+    text-align: center;
+    margin-top: 10%;
+    font-size: 100px;
+}
+pre{
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+#an{
+    color: rgb(175, 166, 166);
+    text-align: center;
+    font-size: 250px;
+}

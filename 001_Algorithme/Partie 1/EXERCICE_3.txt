@@ -1,0 +1,18 @@
+Algorithme Exercice_3
+
+  
+  Variables 
+  t:reel 
+
+Debut
+
+ Ecrire("Donner une valeur en celsius")
+ Lire (t);
+
+       
+       Ecrire ("Sa valeur en Fahrenheit est de :",t * 33.8)
+    
+   
+Fin
+  
+ 

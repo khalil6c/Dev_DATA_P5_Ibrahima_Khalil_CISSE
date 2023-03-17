@@ -1,0 +1,20 @@
+Algorithme Execice_12
+
+  Constante
+    annee_cours =2023 
+  Variables
+    nom ,prenom    :chaine de caractere
+    age ,annee_nais , jours ,mois: entier 
+
+Debut
+    
+ 
+     Ecrire("Donner le nom , le prenom ainsi la date de naissance d'un etudiant")
+     Lire(nom ,prenom ,jours,mois ,annee_nais)
+    
+    Ecrire("Nom et Prenom de l'etudiant :",nom , prenom)
+    Ecrire("Sa date de naissance :",jours,"/",mois ,"/","annee_nais" )
+    Ecrire("Son age est de :",annee_cous -annee_nais ," ans")
+
+
+Fin

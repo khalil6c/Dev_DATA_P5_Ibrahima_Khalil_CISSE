@@ -1,0 +1,22 @@
+Algorithme Exercice_3
+
+ Variable
+
+  a,b ,x:reel
+
+Debut
+
+  Ecrire("Entrer deux nombres a et b")
+  Lire(a , b)
+
+ Si (a != 0) alors
+
+   ECrire ("La solution est de : ",x = -b/a)
+
+  Sinon
+
+   Ecrire ("L'equation n'est pas du premier degre")
+
+ Fin Si
+
+FIN

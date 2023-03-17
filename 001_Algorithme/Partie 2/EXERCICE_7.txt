@@ -1,0 +1,24 @@
+Algorithme Exercice_7
+
+  Variables
+ 
+    A , B : entier
+
+Debut
+
+   Ecrire(" Entrer deux entier A et B ")
+   Lire (A , B)
+
+   Si ( A < B)
+
+     Ecrire (" Affichage dans l'ordre decroissant  : ", A, B )
+     crire (" Affichage dans l'ordre croissant  : ", B ,A )
+
+   Sinon si ( A > B )
+
+     Ecrire (" Affichage dans l'ordre croissant  : ", B,A )
+     Ecrire (" Affichage dans l'ordre decroissant  : ", A, B )
+
+   Fin
+
+FIN
