@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.left, .right {
+    width: 45%;
+    height: 200px;
+    border: 1px solid black;
+    padding: 10px;
+    overflow-y: scroll;
+}
+.left p, .right p {
+    cursor: pointer;
+}
+.selected {
+    background-color: yellow;
+}
+.btn {
+    font-size: 1.2em;
+    cursor: pointer;
+    padding: 5px 10px;
+}
+.disabled {
+    opacity: 0.5;
+    cursor: default;
+}

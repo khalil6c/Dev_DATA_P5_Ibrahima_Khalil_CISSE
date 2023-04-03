@@ -1,0 +1,121 @@
+button span{
+    color: white;
+}
+body{
+    background-color: aqua;
+   
+}
+#im_1{
+width: 30px;
+height: 27px;
+margin-top: 2px;
+
+}
+#im_2{
+    width: 25px;
+    height: 20px;
+    margin-top: 3px;
+    margin-left: 15px;
+    
+    }
+#container{
+    
+    flex-direction: column;
+    width: 250px;
+}
+#a{
+    display: flex;
+    width: auto;
+    height: 30px;
+    padding-left: 80%;
+    background-color: ForestGreen;
+}
+textarea{
+    /*width: 248px;*/
+ min-width : 245px;
+ min-height : 100px;
+ max-width : 245px;
+ max-height : 200px;
+ border: none;
+ background-color: white;
+}
+#textarea{
+    /*width: 248px;*/
+ width : 245px;
+ min-height : 100px;
+ height : 300px;
+ border: none;
+ background-color: white;
+ margin-top: 0%;
+}
+
+
+#add-new{
+    background-color: ForestGreen;
+    margin-bottom: 20px;
+    margin-left: 90%;
+    text-decoration-color: white;
+    border: none;
+
+}
+#a button{
+    padding: 1px;
+    background-color: ForestGreen;
+    margin: 2px;
+    border: none;    
+}
+/*#bn_2{
+    margin-left: 10px;
+    background-color: ForestGreen;
+    
+}*/
+#cont{
+    
+    background-color: aqua;
+   
+    display: flex;
+    }
+
+#ab{
+    width : 250px;
+    background-color: ForestGreen;
+    margin-bottom: 0%;
+    height: 30px;
+    display: flex;
+}
+#div_0{
+    width: 250px;
+    margin: 10px;
+    
+}
+#bn1{
+    
+        padding: 1px;
+        background-color: ForestGreen;
+        margin-top: 2px;
+        border: none;
+        margin-bottom: 4px;
+
+ }
+ #bn2{
+    
+    padding: 1px;
+    background-color: ForestGreen;
+    margin-top: 2px;
+    margin-bottom: 2px;
+    border: none; 
+}
+@media(max-width:600px) {
+    body{
+        width: 100%;
+    }
+    #cont{
+     flex-direction: column;
+     padding-left: 20%;
+        
+    
+    }
+    
+    
+    
+}

@@ -1,0 +1,28 @@
+#compteRebours {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 200px;
+
+  }
+  
+  #compteRebours > div {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
+  .smalltext {
+    font-size: 30px;
+    color: #888;
+  }
+  h1{
+    text-align: center;
+    font-size: 40px;
+  }
+  body{
+    background-image: url('ciel.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    
+    
+  }
+  

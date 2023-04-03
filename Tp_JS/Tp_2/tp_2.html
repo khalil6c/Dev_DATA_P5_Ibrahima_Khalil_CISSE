@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Déplacer des éléments avec des boutons</title>
+	<link rel="stylesheet" href="style.css">
+	<script src="tp_2.js"></script>
+	<style type="text/css">
+		.container {
+			display: flex;
+			justify-content: space-between;
+			align-items: center;
+		}
+		.left, .right {
+			width: 45%;
+			height: 200px;
+			border: 1px solid black;
+			padding: 10px;
+			overflow-y: scroll;
+		}
+		.left p, .right p {
+			cursor: pointer;
+		}
+		.selected {
+			background-color: yellow;
+		}
+		.btn {
+			font-size: 1.2em;
+			cursor: pointer;
+			padding: 5px 10px;
+		}
+		.disabled {
+			opacity: 0.5;
+			cursor: default;
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<div class="left">
+			<h2>Div gauche</h2>
+			<div id="left-container"></div>
+		</div>
+		<div class="controls">
+			<button id="move-right" class="btn disabled">>></button>
+			<button id="move-left" class="btn disabled"><<</button>
+		</div>
+		<div class="right">
+			<h2>Div droite</h2>
+			<div id="right-container"></div>
+		</div>
+	</div>
+
+	<!--script type="text/javascript">
+		// Tableau de données
+		const data = ['Mon Premier', 'Mon Deuxième', 'Mon Troisième', 'Mon Quatrième'];
+
+		// Fonction pour générer dynamiquement les éléments HTML
+		function generateElements(container, items) {
+			container.innerHTML = '';
+			items.forEach(item => {
+				const p = document.createElement('p');
+				p.textContent = item;
+				p.addEventListener('mouseover', function() {
+					p.classList.add('selected');
+				});
+				p.addEventListener('mouseout', function() {
+					p.classList.remove('selected');
+				});
+				container.appendChild(p);
+			});
+		}
+
+		// Générer les éléments dans la div gauche au chargement de la page
+		const leftContainer = document.getElementById('left-container');
+		generateElements(leftContainer, data);
+
+		// Bouton >>
+		const moveRightBtn = document.getElementById('move-right');
+		moveRightBtn.addEventListener('click', function() {
+			const selectedElement = document.querySelector('.selected');
+			if (selectedElement) {
+				const rightContainer = document.getElementById('right-container');
+				rightContainer.appendChild(selectedElement);
+				moveRightBtn.classList.add('disabled');
+				moveLeftBtn.classList.remove('disabled');
+			}
+		});
+
+		// Bouton <<
+		const moveLeftBtn = document.getElementById('move-left');
+		moveLeftBtn.addEventListener('click', function() {
+			const selectedElement = document.querySelector('.selected');
+			if (selectedElement) {
+				const leftContainer = document.getElementById('left-container');
+				leftContainer.appendChild(selectedElement);
+				moveLeftBtn.classList.add('disabled');
+				moveRightBtn.classList.remove('disabled');
+			}
+		});
+        </script-->
+    </body>
+
+        </html>
+        
+	
+		
