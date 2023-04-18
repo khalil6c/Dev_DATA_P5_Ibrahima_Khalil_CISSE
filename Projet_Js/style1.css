@@ -1,0 +1,39 @@
+#mon-formulaire {
+	display: none;
+    background-color: gray;
+    width: 400px;
+    height: 280px;
+    opacity: 0.5;
+    
+}
+#mon-formulaire h1 {
+	
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+/*#select{
+    
+    
+    display: inline-block; 
+}
+/*#mon-formulaire select{
+	margin-left: 160px;
+    
+}*/
+#mon-formulaire label{
+	margin-left: 50px;
+    color: white;
+    
+    
+}
+#mon-formulaire .input{
+    text-align: center;
+    margin-top: 100px;
+    height: 30px;
+    background-color: black;
+    padding-top: 10px;
+}
+
+
+

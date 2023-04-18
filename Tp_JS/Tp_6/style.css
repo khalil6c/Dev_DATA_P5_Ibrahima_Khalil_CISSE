@@ -4,6 +4,9 @@
     margin-top: 200px;
 
   }
+  /*:root{
+    background-color: aqua;
+  }*/
   
   #compteRebours > div {
     display: inline-block;
@@ -22,7 +25,6 @@
     background-image: url('ciel.jpg');
     background-repeat: no-repeat;
     background-size: 100%;
-    
-    
+      
   }
   
